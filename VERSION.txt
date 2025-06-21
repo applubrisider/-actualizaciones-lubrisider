@@ -1,0 +1,5 @@
+{
+  "version": "1.8",
+  "archivo": "auto",
+  "generado": "20250621_032226"
+}
