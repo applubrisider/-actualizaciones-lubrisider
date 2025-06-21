@@ -1,5 +1,1 @@
-{
-  "version": "2.2",
-  "archivo": "auto",
-  "generado": "20250621_052433"
-}
+2.2
